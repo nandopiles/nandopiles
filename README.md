@@ -6,9 +6,11 @@
 
 <div align="left">
     <h3>🔨 Languajes:</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" heigth="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="40" heigth="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" heigth="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" heigth="40" />&nbsp
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" heigth="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="40" heigth="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" heigth="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" heigth="40" />&nbsp
+    </div
 </div>
