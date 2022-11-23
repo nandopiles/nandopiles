@@ -20,7 +20,7 @@
 
 <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=nandopiles&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=nandopiles&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=nandopiles&show_icons=true" />
