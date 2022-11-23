@@ -12,6 +12,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="40" heigth="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" heigth="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" heigth="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" heigth="40" />&nbsp
     </div
 </div>
 
