@@ -4,7 +4,6 @@
     <h3 align="center">A passionate student from Spain🥘 who is in constant growth🌱</h3>
 </div>
 
-### Languajes
 <div align="left">
     <h3>🔨 Languajes and Tools:</h3>
     <div>
@@ -16,3 +15,4 @@
     </div
 </div>
 
+### My Stats 📊
