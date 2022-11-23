@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-    <h3>🔨 Languajes:</h3>
+    <h3>🔨 Languajes and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" heigth="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp
