@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/lpO2yW1AThAcXsZMxZ/giphy.gif" width="250px">
+    <img src="https://media.giphy.com/media/lpO2yW1AThAcXsZMxZ/giphy.gif" width="280px">
     <h1 align="center">Hi 👋🏼, I'm Nando</h1>
     <h3 align="center">A passionate student from Spain🥘 who is in constant growth🌱</h3>
 </div>
