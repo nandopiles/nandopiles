@@ -26,4 +26,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nandopiles&show_icons=true" />
 </picture>
         
-https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&show_icons=true&theme=radical      
+![Top Languajes] (https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&show_icons=true&theme=radical)
