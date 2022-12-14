@@ -15,3 +15,5 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" heigth="40" />&nbsp
     </div
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
