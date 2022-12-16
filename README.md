@@ -15,7 +15,7 @@
     </div
     <div>
         <h3>❌ What I hate:</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp&nbsp
     </div>
 </div>
 
