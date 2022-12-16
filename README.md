@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/lpO2yW1AThAcXsZMxZ/giphy.gif" width="280px">
     <h1 align="center">Hi 👋🏼, I'm Nando</h1>
-    <h3 align="center">A passionate student from Spain🥘 who is in constant growth🌱</h3>
+    <h3 align="center">A passionate student from 🥘 who is in constant growth🌱</h3>
 </div>
 
 <div align="left">
@@ -15,7 +15,7 @@
     </div
     <div>
         <h3>❌ What I hate:</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp
     </div>
 </div>
 
