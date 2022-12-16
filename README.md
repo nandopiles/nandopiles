@@ -18,3 +18,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles" />
