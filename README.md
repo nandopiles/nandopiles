@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/lpO2yW1AThAcXsZMxZ/giphy.gif" width="280px">
-    <h1 align="center">Hi 👋🏼, I'm Nando</h1>
+    <h1 align="center">Hi 👋🏼, I'm Nando ![visitors](https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles&left_color=black&right_color=green)</h1>
     <h3 align="center">A passionate student from Spain🥘 who is in constant growth🌱</h3>
 </div>
 
@@ -19,5 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles&left_color=green&right_color=black)
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles" />
