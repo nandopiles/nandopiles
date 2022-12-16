@@ -13,7 +13,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" heigth="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" heigth="40" />&nbsp
     </div
-    <div>
+    <div align="right">
         <h3>❌ What I hate:</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />&nbsp
     </div>
