@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://activity-graph.herokuapp.com/graph?username=nandopiles&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true")
+<a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
