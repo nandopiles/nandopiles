@@ -4,7 +4,7 @@
     <h3 align="center">A passionate student from Spain🥘 who is in constant growth🌱</h3>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles&left_color=black&right_color=green)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles&left_color=black&right_color=green)
 
 <div align="left">
     <h3>🔨 Languajes and Tools:</h3>
