@@ -1,9 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/lpO2yW1AThAcXsZMxZ/giphy.gif" width="280px">
     <h1 align="center">Hi 👋🏼, I'm Nando</h1>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles&left_color=black&right_color=green)
     <h3 align="center">A passionate student from Spain🥘 who is in constant growth🌱</h3>
 </div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nandopiles.nandopiles&left_color=black&right_color=green)
 
 <div align="left">
     <h3>🔨 Languajes and Tools:</h3>
