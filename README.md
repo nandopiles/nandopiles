@@ -3,7 +3,7 @@
     <h1 align="center">Hi 👋🏼, I'm Nando</h1>
     <h3 align="center">A passionate student from 🥘 who is in constant growth🌱</h3>
 </div>
-
+<hr/>
 <div align="left">
     <h3>🔨 Languajes and Tools:</h3>
     <div>
