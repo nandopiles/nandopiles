@@ -14,6 +14,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" heigth="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" heigth="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" heigth="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" heigth="40" />
     </div>
 </div>
 <br/>
