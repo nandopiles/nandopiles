@@ -1,9 +1,8 @@
 <div id="header" align="center">
-    <!--<img src="https://media.giphy.com/media/lpO2yW1AThAcXsZMxZ/giphy.gif" width="300px">-->
-    <!-- <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="750px"> -->
     <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width=750px">
-    <h1 align="center">Hi 👋🏼, I'm Nando</h1>
-    <h3 align="center">ຊື່ A passionate student from 🥘 who is in constant growth🌱</h3>
+                                                                                                        
+    <h1 align="center">Yee 👋🏼, I'm Nando</h1>
+    <h3 align="center">ຊື່ Someone from 🥘 who is learning🌱</h3>
 </div>
 <hr/>
 <div align="left">
