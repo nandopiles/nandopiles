@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width=750px">
-                                                                                                        
     <h1 align="center">Yee 👋🏼, I'm Nando</h1>
     <h3 align="center">ຊື່ Someone from 🥘 who is learning🌱</h3>
 </div>
