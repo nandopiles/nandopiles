@@ -8,8 +8,8 @@
     |______________________________________________|
 </pre>
     
-    <h1 align="center">Yee 👋🏼, I'm Nando</h1>
-    <h3 align="center">ຊື່ A passionate student from 🥘 who is in constant growth🌱</h3>
+    ##Yee 👋🏼, I'm Nando
+    ###ຊື່ A passionate student from 🥘 who is in constant growth🌱
 
     
 <hr/>
