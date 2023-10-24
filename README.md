@@ -25,4 +25,3 @@
 
 
 
-![snake gif](https://github.com/nandopiles/nandopiles/blob/output/github-contribution-grid-snake.gif)
