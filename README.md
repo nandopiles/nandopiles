@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <!--<img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width=750px">-->
-    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width=950px>
+    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width=750px>
     <!--<h1 align="center">Iee 👋🏼, I'm Nando</h1>
     <h3 align="center">ຊື່ An anonymous from 🥘 who is learning🌱</h3>
     <h4 align="center">Specially Front-End💻</h4>-->
