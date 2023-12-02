@@ -1,14 +1,11 @@
 <div id="header" align="center">
     <!--<img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width=750px">-->
     <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width=680px>
-    <!--<h1 align="center">Iee 👋🏼, I'm Nando</h1>
-    <h3 align="center">ຊື່ An anonymous from 🥘 who is learning🌱</h3>
-    <h4 align="center">Specially Front-End💻</h4>-->
 </div>
 <hr/>
 
 # 💫 About Me:
-Hello! 👋I'm Nando, a passionate young programmer on a journey of continuous learning and self-improvement. I'm 21 and come from the vibrant city of Valencia, Spain. I love taking on challenges and diving headfirst into the world of programming.<br><br>With an insatiable curiosity and a thirst for new experiences, I made it my mission to stand out. I love working on exciting projects and using my skills to make a difference. my goal? Not only keep up with the evolving technology landscape, but lead the way!<br><br>I'm no ordinary programmer - I bring creativity and determination to everything I do. I am willing to collaborate, drive innovation and exceed expectations. I'm here to make a name for myself in the tech world. Let's create great things together! 🚀
+Iee! 👋I'm Nando, a passionate young programmer on a journey of continuous learning and self-improvement. I'm 21 and come from the vibrant city of Valencia, Spain. I love taking on challenges and diving headfirst into the world of programming.<br><br>With an insatiable curiosity and a thirst for new experiences, I made it my mission to stand out. I love working on exciting projects and using my skills to make a difference. my goal? Not only keep up with the evolving technology landscape, but lead the way!<br><br>I'm no ordinary programmer - I bring creativity and determination to everything I do. I am willing to collaborate, drive innovation and exceed expectations. I'm here to make a name for myself in the tech world. Let's create great things together! 🚀
 
 
 ## 🌐 Socials:
