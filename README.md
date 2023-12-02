@@ -5,7 +5,7 @@
 <hr/>
 
 # 💫 About Me:
-Iee! 👋I'm Nando, a passionate young programmer on a journey of continuous learning and self-improvement. I'm 21 and come from the vibrant city of Valencia, Spain. I love taking on challenges and diving headfirst into the world of programming.<br><br>With an insatiable curiosity and a thirst for new experiences, I made it my mission to stand out. I love working on exciting projects and using my skills to make a difference. my goal? Not only keep up with the evolving technology landscape, but lead the way!<br><br>I'm no ordinary programmer - I bring creativity and determination to everything I do. I am willing to collaborate, drive innovation and exceed expectations. I'm here to make a name for myself in the tech world. Let's create great things together! 🚀
+Iee! 👋I'm Nando, a passionate young programmer on a journey of continuous learning and self-improvement. I'm 21 and come from the vibrant city of Valencia, Spain. I love taking on challenges and diving headfirst into the world of programming.<br><br>With an insatiable curiosity and a thirst for new experiences, I made it my mission to stand out. I love working on exciting projects and using my skills to make a difference. my goal? Not only keep up with the evolving technology landscape, but lead the way!<br><br>I'm no ordinary programmer - I bring creativity and determination to everything I do. I'm willing to collaborate, drive innovation and exceed expectations. I'm here to make a name for myself in the tech world! 🚀
 
 
 ## 🌐 Socials:
@@ -17,30 +17,6 @@ Iee! 👋I'm Nando, a passionate young programmer on a journey of continuous lea
 ![](https://github-readme-stats.vercel.app/api?username=nandopiles&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nandopiles&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandopiles&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nandopiles&limit=5&theme=onedark&combine_all_yearly_contributions=true)-->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--<div align="left">
-    <h2>🔨 Languajes and Tools:</h2>
-    <div align="left">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" heigth="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="40" heigth="40" /> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" heigth="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" heigth="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" heigth="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" heigth="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" heigth="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" heigth="40" /> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" heigth="40" />
-    </div>
-</div>
-<br/>-->
 
 
 
