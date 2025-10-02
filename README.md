@@ -4,8 +4,16 @@
 </div>
 <hr/>
 
-# 💫 About Me:
-Iee! 👋I'm Nando, a passionate young programmer on a journey of continuous learning and self-improvement. Come from the vibrant city of Valencia🍊, Spain. I love taking on challenges and diving headfirst into the world of programming.<br><br>With an insatiable curiosity and a thirst for new experiences, I made it my mission to stand out. I love working on exciting projects and using my skills to make a difference. my goal? Not only keep up with the evolving technology landscape, but lead the way!<br><br>I'm no ordinary programmer - I bring creativity and determination to everything I do. I'm willing to collaborate, drive innovation and exceed expectations. I'm here to make a name for myself in the tech world! 🚀
+# 💫 Sobre Mi:
+Yee 👋 Soy Nando, desarrollador frontend especializado en Angular desde València 🍊, España. Me gusta resolver problemas con código limpio y construir experiencias web rápidas, intuitivas y accesibles.
+
+Disfruto trabajando en proyectos que desafían mis habilidades y aprendiendo cada día nuevas tecnologías y buenas prácticas. Siempre busco mejorar y aportar valor real con lo que hago. 🚀
+
+## 💻 Mi Portfolio
+Creo que **la simpleza es la clave**, por eso mi portfolio es limpio y minimalista.  
+Hecho con **Angular** y filtrado local para navegar rápido entre proyectos.  
+
+[🚀 Ver mi Portfolio](https://darling-dodol-495e8a.netlify.app/)
 
 
 ## 🌐 Socials:
